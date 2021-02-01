@@ -6,5 +6,8 @@ public class VariableDeclaration{
      
         short s = 16;
         System.out.println(s);
+
+        int i = -32;
+        System.out.println(i);
     }
 }
